@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "question": "Which planet is known as the Red Planet?",
+    "answer": "Mars",
+    "explanation": "Mars appears reddish because iron minerals in its soil have oxidized."
+  },
+  {
+    "id": "2",
+    "question": "What is the largest ocean on Earth?",
+    "answer": "Pacific Ocean",
+    "explanation": "The Pacific Ocean is the largest and deepest ocean on Earth."
+  },
+  {
+    "id": "3",
+    "question": "What gas do plants absorb from the atmosphere?",
+    "answer": "Carbon dioxide",
+    "explanation": "Plants absorb carbon dioxide during photosynthesis and release oxygen."
+  }
+]
